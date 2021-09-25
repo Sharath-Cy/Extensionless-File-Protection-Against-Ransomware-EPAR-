@@ -26,4 +26,10 @@ By running the above commands in Command Window(Run as Administrator), we can as
 
 ![Model](https://user-images.githubusercontent.com/23623577/134751755-39d41179-87a1-4829-8c66-f9d63576a78c.JPG)
 
+## Execution of File Extenion Remover and intergrating them with Extensionless File Invoker
+
+![Capture](https://user-images.githubusercontent.com/23623577/134751908-295ab932-af9f-4ac7-a215-ec18dc883e5c.JPG)
+
+
+
      
