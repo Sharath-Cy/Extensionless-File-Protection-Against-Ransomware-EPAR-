@@ -21,5 +21,9 @@ Ans: There is a default commands in Windows to associate a "No Extension" Files 
            assoc .="No Extension" && ftype "No Extension"="C:\EPAR\Extenionless File Invoker.exe" "%1"
            
 By running the above commands in Command Window(Run as Administrator), we can associate "No Extension" Files to our program "Extensionless File Invoker.exe"
-     
+
+# Model of the Prototype
+
+![Model](https://user-images.githubusercontent.com/23623577/134751755-39d41179-87a1-4829-8c66-f9d63576a78c.JPG)
+
      
